@@ -1,0 +1,207 @@
+.two-grid-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.one-grid-columns {
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+    max-width: 500px;
+    margin: 0 auto;
+
+    .right-sub-text {
+        margin-top: 50px !important;
+        text-align: center;
+
+        span {
+            text-transform: capitalize;
+            background: #323593;
+            padding: 2% 5%;
+            font-family: Fanwood Text, serif;
+            text-align: center;
+            line-height: 21px;
+            font-size: 3em;
+            color: #fff;
+        }
+
+    }
+
+    padding-top: 2rem;
+}
+
+.grid-element-text {
+    display: grid;
+    grid-template-columns: 32% 1fr;
+    align-items: center;
+}
+
+.div-text-elem {
+    margin: 0 !important;
+    line-height: 1.3;
+}
+
+#element-text-banner {
+    span {
+
+        &:nth-child(3) {
+
+            font-size: 1.5rem;
+            letter-spacing: 13px;
+            text-align: left;
+            color: #ffffff80 !important;
+            margin-left: 10px;
+
+            &:before {
+                content: '';
+                width: 39%;
+                background: #d42e0d;
+                position: relative;
+                display: block;
+                height: 1px;
+                margin: 7px 10px;
+            }
+        }
+    }
+}
+
+.banner-section {
+
+    // &:after {
+        content: "";
+        background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("../../../static/banner/banner-min.png") no-repeat;
+        position: relative;
+        height: 90vh;
+        width: 100%;
+        top: 0;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+    // }
+
+    h1 {
+        font-size: 2.0em;
+        font-weight: bold;
+    }
+
+}
+
+.banner-img {
+
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    img {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+    }
+}
+
+.heading--featured {
+    span {
+        display: block;
+    }
+}
+
+
+.f-letter-elem {
+    font-weight: 900 !important;
+    font-size: 18rem;
+    text-align: center;
+    color: #000000 !important;
+    background: -webkit-linear-gradient(#e0482f, #a90c55);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#banner-layout-responsive {
+    height: 50vh;
+    grid-template-columns: 15% 1fr;
+}
+
+
+/*Modification*/
+.banner-text {
+
+    padding-top: 10em;
+    line-height: 1;
+    position: relative;
+    z-index: 1;
+    margin: 0 auto;
+
+    h1 {
+
+        text-transform: uppercase;
+        font-weight: 900;
+        font-size: 6em;
+        color: #fff !important;
+        padding: 0;
+        text-align: center;
+        letter-spacing: 5px;
+
+        &:after {
+            content: '';
+        }
+    }
+
+    span{
+        text-transform: lowercase;
+        font-weight: 100;
+        font-size: 1em;
+        color: #ef2b3f;
+    }
+
+    p {
+        margin: 0 !important;
+        position: relative;
+        z-index: 10;
+        color: #E2DBEC;
+        letter-spacing: 0px;
+        font-weight: 100;
+        font-size: 1.5rem;
+        line-height: 1.3;
+        font-size: 13px;
+        font-weight: 500;
+        opacity: 0.9;
+        font-family: Fanwood Text, serif;
+        text-align: center;
+        text-transform: uppercase;
+        padding: 2% 0;
+    }
+
+    a {
+
+        &:before {
+            content: '';
+            width: 100%;
+            background: #e0e0e0ee;
+            position: relative;
+            height: 1px;
+            margin: 22px 2px;
+        }
+
+        text-transform: uppercase;
+        color: #eeee !important;
+        margin-top: 8%;
+        display: block;
+    }
+
+
+    .first-title {
+        font-family: "augusta-free";
+        font-size: 5em;
+        color: #fff;
+    }
+}

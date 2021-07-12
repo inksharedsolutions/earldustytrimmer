@@ -10,7 +10,7 @@ import FeaturedLogos from "../components/mid-main"
 
 const IndexPage = (props) => (
     <Layout>
-        <Helmet title="Home | Julia Peters-Parmeter"/>
+        <Helmet title="Home | Kasalobi "/>
         <Nav pathExt={props.path} />
         <Banner /><br/><br/><br/><br/><br/><br/>
         <MidBook />

@@ -1,5 +1,6 @@
 import React from 'react'
-import AuthorImg from '../../static/author/author.jpg'
+import { Link } from 'gatsby'
+import AuthorImg from '../../static/author/dummy-profile.jpg'
 
 const Author = () => {
     return (
@@ -10,12 +11,17 @@ const Author = () => {
                     <div className="grid-child" id="author-contents">
 
                         <p>
-                        Over the past forty years, Julia Parmeter has worked in several interlinked professions. Her resume includes time as a personal development instructor with pre-teen and teenage girls and as an actress and acting coach, casting director and Hollywood producer, and over the past twelve years, she has been the owner and CEO of The Parmeter Group, a talent management company for actors. With her political views clashing with the radical ideas of the liberal entertainment industry, it has been a rocky road.
+                        Many of us who were combat soldiers or marines in the Vietnam War still consider themselves as soldiers.  I served during what has been referred to as the “bloody years” of 1968-69.  Actually 1968 alone owns the title.  I am not a college graduate, but I ground out seven and a half years of college classes day and evening, at four different universities — majoring in nothing, and working full time while attending evening classes, . . . just like an infantry “grunt” did in Vietnam.  I was working almost 24-7 before and after Vietnam service. 
                         </p>
-
+                        
+                        <button className="btn-book-featured-red">
+                                <Link to="/about-the-author">
+                                    Read More
+                                </Link>
+                            </button>
                         <h1 className="author-name-tag">
-                            <span>Julia</span>
-                            <span>Peters-Parmeter</span>
+                            <span></span>
+                            <span>Kasalobi</span>
                         </h1>
 
                         <span className="author-tagline">

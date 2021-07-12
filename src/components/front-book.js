@@ -26,7 +26,7 @@ const MidBook = (props) => {
                             </h1>
 
                             <p>
-                            Forgotten citizens of all ages, races, creeds, and sexual orientations have woken up to the fact that they have been manipulated by greedy power-mongering entities, who thrive on dividing them to benefit their political agendas with the goal of garnering votes. These wealthy elitists are destroying our Constitution and taking away our American dream!
+                            In America, Come and Get It, his second release, Mr. Kasalobi finds himself in a big legal fight to regain back the custody of his two daughters. Loylla, the youngest, is eight months old when Sheebah, their mother, abandons them. She comes back eight years later and kidnaps both of them with the help of the Hurst Police Department.
                             </p>
 
                             <button className="btn-book-featured">

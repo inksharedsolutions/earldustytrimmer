@@ -13,15 +13,15 @@ const ATB = (props) => {
     const slug = (props.location.href);
 
     const disqusConfig = {
-        shortname: 'julia-peters-parmeter',
-        config: { identifier: 12, slug }
+        shortname: 'kasalobi',
+        config: { identifier: 12, slug }    
     }
 
 
     return (
         <>
             <Layout>
-            <Helmet title="About the Book | Julia Peters-Parmeter"/>
+            <Helmet title="About the Book | Kasalobi "/>
                 <Nav pathExt={props.path} />
 
                 <Banner
@@ -54,13 +54,13 @@ const ATB = (props) => {
 
                                 ebooks: {
                                     stratton: '',
-                                    barnes: 'https://www.barnesandnoble.com/w/forgotten-men-and-women-julia-peters-parmeter/1138327233?ean=9781648952609',
-                                    amazon: 'https://www.amazon.com/Forgotten-Men-Women-Voting-American-ebook/dp/B08Q6CKQH5/ref=sr_1_1?dchild=1&keywords=9781648952609&qid=1609203843&s=digital-text&sr=1-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/america-come-and-get-it-kasalobi/1129522005?ean=9781648954115',
+                                    amazon: 'https://www.amazon.com/America-Come-Get-Kasalobi-ebook/dp/B096L6K52B/ref=sr_1_1?dchild=1&keywords=9781648954115&qid=1623259921&sr=8-1',
                                 },
                                 paperback: {
-                                    amazon: 'https://www.amazon.com/Forgotten-Men-Women-Voting-American/dp/1648952593/ref=sr_1_1?dchild=1&keywords=9781648952593&qid=1609203904&s=digital-text&sr=1-1',
-                                    barnes: 'https://www.barnesandnoble.com/w/forgotten-men-and-women-julia-peters-parmeter/1138327233?ean=9781648952593',
-                                    booksamillion: 'https://www.booksamillion.com/p/Forgotten-Men-Women/Julia-Peters-Parmeter/9781648952593?id=8092038366619',
+                                    amazon: 'https://www.amazon.com/America-Come-Get-Kasalobi/dp/1648954103/ref=sr_1_1?dchild=1&keywords=9781648954108&qid=1623259912&sr=8-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/america-come-and-get-it-kasalobi/1129522005?ean=9781648954108',
+                                    booksamillion: 'https://www.booksamillion.com/p/America-Come-Get/Kasalobi/9781648954108?id=8255501074287',
                                 }
                             }}
                         />

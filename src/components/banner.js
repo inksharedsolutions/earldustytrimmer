@@ -12,14 +12,14 @@ const Banner = () => {
                             <div className="banner-text">
 
                                 <h1>
-                                    Forgotten Men <span>and</span> Women
+                                America Come<span>and</span> Get It
                                 </h1>
 
-                                <p className="right-sub-text">
+                                {/* <p className="right-sub-text">
                                     <span>
                                         Voting to save the American Dream
                                    </span>
-                                </p>
+                                </p> */}
 
                             </div>
                         </div>

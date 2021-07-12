@@ -12,13 +12,13 @@ $prm-font-size : 12px;
     content: "";
     background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("../../../static/banner/banner-min.png") no-repeat;
     position: relative;
-    height: 500px;
+    height: 600px;
     width: 100%;
-    top: 0;
     background-position: center;
     background-attachment: fixed;
-    background-position: center;
+    background-position: 0 100%;
     background-size: cover;
+    
 
     span {
         letter-spacing: 0.67em;
@@ -49,10 +49,13 @@ $prm-font-size : 12px;
     margin-bottom: 0;
 }
 
-.body-author-contents {
-    margin: 4em 0 !important;
-    // background: #eee;
+.body-author-contents {   // background: #eee;
     padding: 44px;
+    margin: 4em 0 !important;
+    padding: 44px;
+    display: flex;
+    align-content: space-between;
+    flex-direction: column;
 }
 
 .heading-quote {
@@ -96,7 +99,6 @@ $prm-font-size : 12px;
         line-height: 2.2;
         color: #535353;
         margin-bottom: 2em;
-        text-align: justify;
     }
 }
 

@@ -94,6 +94,28 @@ button{
 }
 
 
+.btn-book-featured-red{
+    color: #000;
+    background: none;
+    border: 2px solid #000;
+    border-radius: 40px;
+    padding: 2% 16%;
+    margin-top: 5%;
+
+    a{
+        text-transform: uppercase;
+        color: #fff ;
+    }
+
+    &:hover{
+        background-color: #049cd4;
+        a{
+            color: white !important;
+        }
+    }
+}
+
+
 // #___gatsby{
     // background: #1F1F21;
 // }

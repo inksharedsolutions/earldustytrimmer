@@ -8,8 +8,9 @@ import MidBook from "../components/front-book"
 import Author from "../components/author"
 import FeaturedLogos from "../components/mid-main"
 
+
 const IndexPage = (props) => (
-    <Layout>
+    <Layout >
         <Helmet title="Home | Kasalobi "/>
         <Nav pathExt={props.path} />
         <Banner /><br/><br/><br/><br/><br/><br/>

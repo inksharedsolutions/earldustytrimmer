@@ -99,6 +99,7 @@ $prm-font-size : 12px;
         line-height: 2.2;
         color: #535353;
         margin-bottom: 2em;
+        text-align: justify;
     }
 }
 
@@ -189,6 +190,7 @@ $prm-font-size : 12px;
     font-size: 20px !important;
     margin-bottom: 24px !important;
     color: #575757;
+    text-align: center;
 }
 
 .flexMainContainer {
@@ -289,7 +291,7 @@ $prm-font-size : 12px;
 .ata-name {
     color: #181818 !important;
     font-family: "augusta-free";
-    font-size: 4vw;
+    font-size: 4rem;
 }
 
 .disqus-container-bars {

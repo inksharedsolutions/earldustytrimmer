@@ -36,19 +36,16 @@ const ATB = (props) => {
 
                         <BookInfo
                             data={{
-                                title: `Forgotten Men and Women`,
-                                spanFirst: `Voting to save the American Dream`,
+                                title: `America Come and Get It`,
+                                spanFirst: ``,
                                 imgSrc: Book1,
                                 id: 'forgotten-men-and-women',
                                 content:
                                     `
                                         <p>
-                                            Forgotten citizens of all ages, races, creeds, and sexual orientations have woken up to the fact that they have been manipulated by greedy power-mongering entities, who thrive on dividing them to benefit their political agendas with the goal of garnering votes. These wealthy elitists are destroying our Constitution and taking away our American dream!
+                                        In America, Come and Get It, his second release, Mr. Kasalobi finds himself in a big legal fight to regain back the custody of his two daughters. Loylla, the youngest, is eight months old when Sheebah, their mother, abandons them. She comes back eight years later and kidnaps both of them with the help of the Hurst Police Department. For his daughters, Kasalobi moves skies and empties seas, but because it is believed that girls are better off with their mother, lawyers refuse to take the case, while the Child Protective Services closes their eyes to the cruel mistreatments these two little girls are going through. The worst of all is the fact that it is the hands of their own mother that are administrating these violent abuses. As days go by, the fighting becomes bigger and bascules itself on one side, the mother's side. Mr. Kasalobi doesn't get desperate. He doesn't give up even when he finds himself alone doing legal battles to everyone and against every established institution possible. He only gets a break when the lawyer Violet Nwokoye enters the family court on his side. At the end of the day, did he get both children back? He is talking about this new journey in America, Come and Get It
                                         </p>
-                                        <br/>
-                                        <p>
-                                            "We the People" were losing sight of our common values and the very essence of what makes us love this great country. It is time to mend some fences and get back to the business of being a nation of and for the people. As we reclaim our government, let us unite as patriots fighting toward our mutual desire of liberty and justice for all!
-                                        </p>
+                                     
 
                                     `,
 

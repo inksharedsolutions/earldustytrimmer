@@ -12,8 +12,11 @@ const Banner = () => {
                             <div className="banner-text">
 
                                 <h1>
-                                America Come<span>and</span> Get It
+                                A True Heart <br/><span>
+                                    -Wrenching Story <br/></span> About Victory… Forfeited!
                                 </h1>
+                               
+
 
                                 {/* <p className="right-sub-text">
                                     <span>

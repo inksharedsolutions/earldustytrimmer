@@ -13,7 +13,7 @@ const ATB = (props) => {
     const slug = (props.location.href);
 
     const disqusConfig = {
-        shortname: 'kasalobi',
+        shortname: 'Earl "Dusty" Trimmer',
         config: { identifier: 12, slug }    
     }
 
@@ -21,7 +21,7 @@ const ATB = (props) => {
     return (
         <>
             <Layout>
-            <Helmet title="About the Book | Kasalobi "/>
+            <Helmet title='About the Book | Earl "Dusty" Trimmer '/>
                 <Nav pathExt={props.path} />
 
                 <Banner
@@ -36,28 +36,50 @@ const ATB = (props) => {
 
                         <BookInfo
                             data={{
-                                title: `America Come and Get It`,
+                                title: `UNBREAKABLE HEARTS II`,
                                 spanFirst: ``,
                                 imgSrc: Book1,
                                 id: 'forgotten-men-and-women',
                                 content:
                                     `
                                         <p>
-                                        In America, Come and Get It, his second release, Mr. Kasalobi finds himself in a big legal fight to regain back the custody of his two daughters. Loylla, the youngest, is eight months old when Sheebah, their mother, abandons them. She comes back eight years later and kidnaps both of them with the help of the Hurst Police Department. For his daughters, Kasalobi moves skies and empties seas, but because it is believed that girls are better off with their mother, lawyers refuse to take the case, while the Child Protective Services closes their eyes to the cruel mistreatments these two little girls are going through. The worst of all is the fact that it is the hands of their own mother that are administrating these violent abuses. As days go by, the fighting becomes bigger and bascules itself on one side, the mother's side. Mr. Kasalobi doesn't get desperate. He doesn't give up even when he finds himself alone doing legal battles to everyone and against every established institution possible. He only gets a break when the lawyer Violet Nwokoye enters the family court on his side. At the end of the day, did he get both children back? He is talking about this new journey in America, Come and Get It
+                                        Earl “Dusty” Trimmer relates with both skill and personal experience events surrounding 
+                                        our most forgetable and misunderstood war in America’s history. He brings it all home 
+                                        with his down-to-earth style and considerable knowledge. In Unbreakable Hearts, Dusty 
+                                        dives into the Vietnamese history and culture and skillfully brings the reader into understanding 
+                                        our Vietnamese enemy’s amazing resolve. He brilliantly explains the evolution of our Vietnamese 
+                                        enemy over hundreds of years of invasions and wars. Always defending their country to remain 
+                                        free became an art. In Chapter 7, Dusty describes the Vietnamese women fighters as “Hellcats.” 
+                                        My own experience with the formidable Vietnamese Viet Cong women’s skills and expertise 
+                                        closely mirrors Dusty’s. Hooch girls could plant booby traps in a GI’s hooch with a skill and 
+                                        savvy they were forced to learn during decades of on-the-job training in continuous wars with 
+                                        unwelcomed invaders.
+                                        My own Military Police experience after leaving the infantry revealed these incidents vividly. 
+                                        In later chapters, Dusty moves into our own veterans’ profound resolve and toughness. North 
+                                        Vietnam’s famed General Giap called us “an honorable enemy.” One could suggest from this 
+                                        writing that our enemy taught us well. We did things in the Vietnam War the average person 
+                                        would have to go to the movies to believe. After reading Trimmer’s descriptions, I must conclude 
+                                        that indeed this book could be one for the movie industry.
+                                        Dusty Trimmer brings to life our days and nights living and fighting in these foreboding jungle 
+                                        warfare conditions. After reading this fine work and reflecting on my own experiences, I cut 
+                                        away a little more of the pain. Pride swells for having served with all of these wonderful veterans 
+                                        of the Vietnam War. Pain for our terrible losses. For myself, these experiences culminated in 
+                                        wisdom I would otherwise have failed to achieve. God bless Dusty for telling our story. Forward 
+                                        march, Brothers!
                                         </p>
                                      
-
+                                        <h2> Coming Soon...</h2>
                                     `,
 
                                 ebooks: {
                                     stratton: '',
-                                    barnes: 'https://www.barnesandnoble.com/w/america-come-and-get-it-kasalobi/1129522005?ean=9781648954115',
-                                    amazon: 'https://www.amazon.com/America-Come-Get-Kasalobi-ebook/dp/B096L6K52B/ref=sr_1_1?dchild=1&keywords=9781648954115&qid=1623259921&sr=8-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/america-come-and-get-it-Earl "Dusty" Trimmer/1129522005?ean=9781648954115',
+                                    amazon: 'https://www.amazon.com/America-Come-Get-Earl "Dusty" Trimmer-ebook/dp/B096L6K52B/ref=sr_1_1?dchild=1&keywords=9781648954115&qid=1623259921&sr=8-1',
                                 },
                                 paperback: {
-                                    amazon: 'https://www.amazon.com/America-Come-Get-Kasalobi/dp/1648954103/ref=sr_1_1?dchild=1&keywords=9781648954108&qid=1623259912&sr=8-1',
-                                    barnes: 'https://www.barnesandnoble.com/w/america-come-and-get-it-kasalobi/1129522005?ean=9781648954108',
-                                    booksamillion: 'https://www.booksamillion.com/p/America-Come-Get/Kasalobi/9781648954108?id=8255501074287',
+                                    amazon: 'https://www.amazon.com/America-Come-Get-Earl "Dusty" Trimmer/dp/1648954103/ref=sr_1_1?dchild=1&keywords=9781648954108&qid=1623259912&sr=8-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/america-come-and-get-it-Earl "Dusty" Trimmer/1129522005?ean=9781648954108',
+                                    booksamillion: 'https://www.booksamillion.com/p/America-Come-Get/Earl "Dusty" Trimmer/9781648954108?id=8255501074287',
                                 }
                             }}
                         />

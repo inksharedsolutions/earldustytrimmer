@@ -31,21 +31,21 @@ const BookInfo = (props) => {
 
 
                     <BookLink
-                        data={{
-                            ebooks: {
-                                stratton: props.data.ebooks.stratton,
-                                barnes: props.data.ebooks.barnes,
-                                amazon: props.data.ebooks.amazon,
-                            },
-                            paperback: {
-                                amazon: props.data.paperback.amazon,
-                                barnes: props.data.paperback.barnes,
-                                booksamillion: props.data.paperback.booksamillion,
-                            },
+                        // data={{
+                        //     ebooks: {
+                        //         stratton: props.data.ebooks.stratton,
+                        //         barnes: props.data.ebooks.barnes,
+                        //         amazon: props.data.ebooks.amazon,
+                        //     },
+                        //     paperback: {
+                        //         amazon: props.data.paperback.amazon,
+                        //         barnes: props.data.paperback.barnes,
+                        //         booksamillion: props.data.paperback.booksamillion,
+                        //     },
 
-                            reviews: {},
-                            isNonfront: true,
-                        }}
+                        //     reviews: {},
+                        //     isNonfront: true,
+                        // }}
                     />
 
                 </div>

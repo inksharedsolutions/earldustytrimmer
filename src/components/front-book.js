@@ -26,7 +26,9 @@ const MidBook = (props) => {
                             </h1>
 
                             <p>
-                            In America, Come and Get It, his second release, Mr. Kasalobi finds himself in a big legal fight to regain back the custody of his two daughters. Loylla, the youngest, is eight months old when Sheebah, their mother, abandons them. She comes back eight years later and kidnaps both of them with the help of the Hurst Police Department.
+                            Earl “Dusty” Trimmer relates with both skill and personal experience events surrounding 
+                                        our most forgetable and misunderstood war in America’s history. He brings it all home 
+                                        with his down-to-earth style and considerable knowledge. In Unbreakable Hearts,
                             </p>
 
                             <button className="btn-book-featured">

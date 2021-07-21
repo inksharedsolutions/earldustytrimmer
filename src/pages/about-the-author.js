@@ -11,7 +11,7 @@ const ATB = (props) => {
     return (
         <>
             <Layout>
-            <Helmet title="About the Author | Kasalobi "/>
+            <Helmet title='About the Author | Earl "Dusty" Trimmer '/>
                 <Nav pathExt={props.path} />
 
                 <Banner
@@ -68,7 +68,7 @@ const ATB = (props) => {
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author | Writer </span>
-                                    <span className="ata-name">Kasalobi </span>
+                                    <span className="ata-name">Earl "Dusty" Trimmer </span>
                                 </span>
                             </p>
 

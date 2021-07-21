@@ -21,7 +21,7 @@ const Author = () => {
                             </button>
                         <h1 className="author-name-tag">
                             <span></span>
-                            <span>Kasalobi</span>
+                            <span>Earl "Dusty" Trimmer</span>
                         </h1>
 
                         <span className="author-tagline">

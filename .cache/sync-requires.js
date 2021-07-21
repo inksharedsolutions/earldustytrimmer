@@ -5,15 +5,15 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\kasalobi\\.cache\\dev-404-page.js"))),
-  "component---src-pages-404-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\kasalobi\\src\\pages\\404.js"))),
-  "component---src-pages-about-the-author-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\kasalobi\\src\\pages\\about-the-author.js"))),
-  "component---src-pages-about-the-book-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\kasalobi\\src\\pages\\about-the-book.js"))),
-  "component---src-pages-contact-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\kasalobi\\src\\pages\\contact.js"))),
-  "component---src-pages-index-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\kasalobi\\src\\pages\\index.js"))),
-  "component---src-pages-page-2-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\kasalobi\\src\\pages\\page-2.js"))),
-  "component---src-pages-privacy-policy-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\kasalobi\\src\\pages\\privacy-policy.js"))),
-  "component---src-pages-terms-and-conditions-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\kasalobi\\src\\pages\\terms-and-conditions.js"))),
-  "component---src-pages-using-typescript-tsx": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\kasalobi\\src\\pages\\using-typescript.tsx")))
+  "component---cache-dev-404-page-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\earldustytrimmer\\.cache\\dev-404-page.js"))),
+  "component---src-pages-404-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\earldustytrimmer\\src\\pages\\404.js"))),
+  "component---src-pages-about-the-author-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\earldustytrimmer\\src\\pages\\about-the-author.js"))),
+  "component---src-pages-about-the-book-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\earldustytrimmer\\src\\pages\\about-the-book.js"))),
+  "component---src-pages-contact-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\earldustytrimmer\\src\\pages\\contact.js"))),
+  "component---src-pages-index-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\earldustytrimmer\\src\\pages\\index.js"))),
+  "component---src-pages-page-2-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\earldustytrimmer\\src\\pages\\page-2.js"))),
+  "component---src-pages-privacy-policy-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\earldustytrimmer\\src\\pages\\privacy-policy.js"))),
+  "component---src-pages-terms-and-conditions-js": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\earldustytrimmer\\src\\pages\\terms-and-conditions.js"))),
+  "component---src-pages-using-typescript-tsx": hot(preferDefault(require("C:\\Users\\Bruce\\Desktop\\Projects\\earldustytrimmer\\src\\pages\\using-typescript.tsx")))
 }
 

@@ -23,7 +23,7 @@ const Footer = () => {
                         </h1>
 
                         <p>
-                            Kasalobi  loves to hear from readers. You can reach her via email.
+                            Earl "Dusty" Trimmer  loves to hear from readers. You can reach her via email.
                             Feel free to send questions about writing, her works, interviews
                             and other publicity matters.
                         </p>

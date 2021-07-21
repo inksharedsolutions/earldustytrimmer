@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Forgotten Men and Women`,
     description: `Voting to save the American Dream`,
-    author: `Kasalobi `,
+    author: `Earl "Dusty" Trimmer `,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

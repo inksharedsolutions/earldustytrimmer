@@ -20,6 +20,7 @@ const Contact = (props) => {
         xhr.onreadystatechange = () => {
             if (xhr.readyState !== XMLHttpRequest.DONE) return;
             if (xhr.status === 200) {
+                alert('Succesfully sent!')
                 form.reset();
             } else {
                 console.log('something went wrong')
@@ -51,7 +52,7 @@ const Contact = (props) => {
 
                         <form
                             onSubmit={OnSubmitForm}
-                            action="https://formspree.io/xvopdpny"
+                            action="https://formspree.io/f/mbjqoneo"
                             method="POST">
 
                             <div className="columns" id="form-wrapper">
@@ -60,6 +61,9 @@ const Contact = (props) => {
                                     <Inputs
                                         name="fullname"
                                         type="text" />
+                                    <input
+                                        name="author"
+                                        type="hidden"  value = 'Earl "Dusty" Trimmer'/>
 
                                     <Inputs
                                         name="phone"

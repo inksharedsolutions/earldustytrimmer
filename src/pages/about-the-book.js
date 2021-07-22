@@ -54,12 +54,16 @@ const ATB = (props) => {
                                         closely mirrors Dusty’s. Hooch girls could plant booby traps in a GI’s hooch with a skill and 
                                         savvy they were forced to learn during decades of on-the-job training in continuous wars with 
                                         unwelcomed invaders.
+                                        </p>
+                                        <p>
                                         My own Military Police experience after leaving the infantry revealed these incidents vividly. 
                                         In later chapters, Dusty moves into our own veterans’ profound resolve and toughness. North 
                                         Vietnam’s famed General Giap called us “an honorable enemy.” One could suggest from this 
                                         writing that our enemy taught us well. We did things in the Vietnam War the average person 
                                         would have to go to the movies to believe. After reading Trimmer’s descriptions, I must conclude 
                                         that indeed this book could be one for the movie industry.
+                                        </p>
+                                        <p>
                                         Dusty Trimmer brings to life our days and nights living and fighting in these foreboding jungle 
                                         warfare conditions. After reading this fine work and reflecting on my own experiences, I cut 
                                         away a little more of the pain. Pride swells for having served with all of these wonderful veterans 

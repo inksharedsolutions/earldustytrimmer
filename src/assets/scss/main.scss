@@ -143,3 +143,24 @@ button{
     margin:0 auto;
 }
 
+.group-sec{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+
+    .flex{
+        padding: 0 10px;
+        display: flex; 
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        span{
+            color: #000;
+        }  
+        p{
+            text-align: center;
+            white-space: pre-line;
+        }
+    }
+}
+

@@ -3,7 +3,7 @@ import Layout from '../components/layout'
 import Nav from '../components/nav'
 
 import Banner from '../components/non-front-banner'
-import AuthorImg from '../../static/author/dummy-profile.jpg'
+import AuthorImg from '../../static/banner/home-picture.jpg'
 import { Helmet } from "react-helmet"
 
 const ATB = (props) => {
@@ -45,7 +45,7 @@ const ATB = (props) => {
                             After the war it was difficult adjusting and I was unable to find or keep full-time employment that could lead to a career.  Fortunately, I managed to carve out a career for myself in the advertising/ marketing/sales field.  But I had to weather going through nearly two dozen jobs before I found a comfortable fit and that I did.  I remained with the same employer until a forced retirement influenced by illnesses from Vietnam forced me to retire in 2014.  That one employer who stuck with me was myself as I made it as a self-employed contractor for 37 years. 
                             </p>
                             <p>
-                            As a marketing/sales consultant, I earned top sales awards almost every year and many promotion offers, turning them all down in order to remain in my comfort zone as an independent contractor.  That comfort zone seemed to include remaining single, at least to my fortieth birthday to the lovely Ginny Bancat, also from the Cleveland, Ohio area.  We remained together for thirty-seven years.  I never fathered children (my choice because of Vietnam War problems and the potential of illnesses being passed on.  However, Ginny brought me four great stepchildren and seven step grandchildren and I am proud of them all. 
+                            As a marketing/sales consultant, I earned top sales awards almost every year and many promotion offers, turning them all down in order to remain in my comfort zone as an independent contractor.  That comfort zone seemed to include remaining single, at least to my fortieth birthday to the lovely Ginny Brancato, also from Cleveland, Ohio.  We have remained together for thirty-seven years.  I never fathered children (my choice) because of Vietnam War problems and the potential of illnesses being passed on.  However, Ginny brought me four great stepchildren and seven step grandchildren and I am adore them all. 
                             </p>
                             <p>
                           My childhood had its ups and downs with alcohol being consistently present with my parents.  Divorce forced me into an orphanage, separating me from family members and this took a toll on me.  This is probably what influenced me to stop college courses and leave myself almost a certain draftee, guaranteed to go into direct combat in the 25th Infantry Division.  As a “point-man” for nine months as a combat infantry man.  I earned numerous decorations including these:  Bronze Star-Valor, Combat Infantry Badge, Purple Heart, Army Commendation Medal and four unit citations including the Vietnam Cross of Gallantry with three bronze stars and more. 

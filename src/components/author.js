@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import AuthorImg from '../../static/author/dummy-profile.jpg'
+import AuthorImg from '../../static/banner/home-picture.jpg'
 
 const Author = () => {
     return (
@@ -29,11 +29,20 @@ const Author = () => {
                         </span>
 
                     </div>
+                    <div className="group-sec">
+                        <div className="flex">
+                        <div>  <img src={AuthorImg}/></div>
+                            <div>
+                            <p>
+                        <span>  Dusty Trimmer </span> - Combat Infantry, <span>  John Bellemy </span> - Combat Engineer, <span>  Tom Gretsko </span> - Army Ranger.
+                            <br/>
+                            All reserved with the 25th Infantry Division 1968-1970.
+                        </p>
 
-                    <div className="grid-child" id="author-image-container">
-                        <img alt="author-img" src={AuthorImg} />
                     </div>
-
+                </div>
+              
+        </div>
                 </div>
             </section>
         </>

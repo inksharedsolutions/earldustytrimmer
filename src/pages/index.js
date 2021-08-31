@@ -17,7 +17,7 @@ const IndexPage = (props) => (
         <Banner /><br/><br/><br/><br/><br/><br/>
         <MidBook />
         <Author />
-        <div className="group-sec">
+        {/* <div className="group-sec">
                 <div className="flex">
                   <div>  <img src={HomePic}/></div>
                     <div>
@@ -30,7 +30,7 @@ const IndexPage = (props) => (
                     </div>
                 </div>
               
-        </div>
+        </div> */}
 
         <FeaturedLogos />
     </Layout>

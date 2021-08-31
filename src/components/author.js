@@ -31,7 +31,8 @@ const Author = () => {
                     </div>
                     <div className="group-sec">
                         <div className="flex">
-                        <div>  <img src={AuthorImg}/></div>
+                        <div>
+                              <img src={AuthorImg}/></div>
                             <div>
                             <p>
                         <span>  Dusty Trimmer </span> - Combat Infantry, <span>  John Bellemy </span> - Combat Engineer, <span>  Tom Gretsko </span> - Army Ranger.

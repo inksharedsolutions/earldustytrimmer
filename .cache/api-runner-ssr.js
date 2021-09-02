@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('C:/Users/Bruce/Desktop/New folder/earldustytrimmer/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('C:/Users/Bruce/Desktop/Projects/earldustytrimmer/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/Bruce/Desktop/New folder/earldustytrimmer/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('C:/Users/Bruce/Desktop/Projects/earldustytrimmer/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"static/logo/logo-name.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"39fcac367d2908d4a74aba3d585b5885"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

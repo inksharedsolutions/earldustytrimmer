@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import AuthorImg from '../../static/banner/home-picture.jpg'
+import ImageSlider from "../components/image-slider"
 
 const Author = () => {
     return (
@@ -31,8 +32,9 @@ const Author = () => {
                     </div>
                     <div className="group-sec">
                         <div className="flex">
-                        <div>
-                              <img src={AuthorImg}/></div>
+                        <div className="ml-15">
+                            <ImageSlider/>
+                        </div>
                             <div>
                             <p>
                         <span>  Dusty Trimmer </span> - Combat Infantry, <span>  John Bellemy </span> - Combat Engineer, <span>  Tom Gretsko </span> - Army Ranger.

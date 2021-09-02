@@ -1,6 +1,7 @@
 import React from "react"
 import { Helmet } from "react-helmet"
-
+import { Carousel } from "react-bootstrap"
+import ImageSlider from "../components/image-slider"
 import Layout from "../components/layout"
 import Nav from "../components/nav"
 import Banner from "../components/banner"
@@ -17,9 +18,12 @@ const IndexPage = (props) => (
         <Banner /><br/><br/><br/><br/><br/><br/>
         <MidBook />
         <Author />
+        
         {/* <div className="group-sec">
                 <div className="flex">
-                  <div>  <img src={HomePic}/></div>
+                  <div>
+                    <ImageSlider/>
+                  </div>
                     <div>
                     <p>
                   <span>  Dusty Trimmer </span> - Combat Infantry, <span>  John Bellemy </span> - Combat Engineer, <span>  Tom Gretsko </span> - Army Ranger.

@@ -149,13 +149,14 @@ button{
     justify-content: center;
 
     .flex{
+      
         padding: 0 10px;
         display: flex; 
         align-items: center;
-        justify-content: center;
+        // justify-content: center;
         flex-direction: column;
-        img{
-            width: 80%;
+        .ml-15{
+            margin-left: 7%;
         }
         span{
             color: #000;
@@ -167,3 +168,6 @@ button{
     }
 }
 
+.carousel-items{
+    margin-right: 0!important;
+}

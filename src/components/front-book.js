@@ -28,7 +28,7 @@ const MidBook = (props) => {
                             <p>
                             Earl “Dusty” Trimmer relates with both skill and personal experience events surrounding 
                                         our most forgetable and misunderstood war in America’s history. He brings it all home 
-                                        with his down-to-earth style considerable knowledge and a ton of research.
+                                        with a down-to-earth style considerable knowledge and a ton of research.
                             </p>
 
                             <button className="btn-book-featured">

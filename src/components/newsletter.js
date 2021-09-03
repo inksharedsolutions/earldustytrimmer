@@ -1,5 +1,5 @@
 import React from 'react'
-import Inputs from "../components/Inputs/inputs"
+// import Inputs from "../components/Inputs/inputs"
 
 
 const Newsletter = () => {

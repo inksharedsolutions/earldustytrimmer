@@ -1,14 +1,14 @@
 import React from "react"
 import { Helmet } from "react-helmet"
-import { Carousel } from "react-bootstrap"
-import ImageSlider from "../components/image-slider"
+// import { Carousel } from "react-bootstrap"
+// import ImageSlider from "../components/image-slider"
 import Layout from "../components/layout"
 import Nav from "../components/nav"
 import Banner from "../components/banner"
 import MidBook from "../components/front-book"
 import Author from "../components/author"
 import FeaturedLogos from "../components/mid-main"
-import HomePic from "../../static/banner/home-picture.jpg"
+// import HomePic from "../../static/banner/home-picture.jpg"
 
 
 const IndexPage = (props) => (

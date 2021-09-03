@@ -71,6 +71,10 @@ const ATB = (props) => {
                                         wisdom I would otherwise have failed to achieve. God bless Dusty for telling our story. Forward 
                                         march, Brothers!
                                         </p>
+
+                                        <p>
+                                        Earl Campbell, Major (retired) U.S. Army Veteran Combat Infantry Association Commander (retired)
+                                        </p>
                                      
                                         <h2> Coming Soon...</h2>
                                     `,

@@ -39,7 +39,7 @@ const Author = () => {
                             <p>
                         <span>  Dusty Trimmer </span> - Combat Infantry, <span>  John Bellemy </span> - Combat Engineer, <span>  Tom Gretsko </span> - Army Ranger.
                             <br/>
-                            All reserved with the 25th Infantry Division 1968-1970.
+                            All served with the 25th Infantry Division 1967-1970.
                         </p>
 
                     </div>

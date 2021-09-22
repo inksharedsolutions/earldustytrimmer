@@ -10,6 +10,14 @@ const BookInfo = (props) => {
                 <div className="column">
                     <div className="bookImgContainer">
                         <img alt="main-book" src={props.data.imgSrc} />
+                        <div className="heading-quote">
+                            <span style={{fontWeight: 'bold'}}>EARL KENNEDY</span>
+                            <h4>
+                                Major U.S. Army (retired) <br />
+                                101st Airborne Vietnam/Delta 2nd of 506th Infantry
+                                Combat Infantry Association (former Commander)
+                            </h4>
+                        </div>
                     </div>
                 </div>
 

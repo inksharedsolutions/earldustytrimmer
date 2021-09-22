@@ -28,10 +28,10 @@ const ATB = (props) => {
                             </div>
 
                             <div className="heading-quote">
-                                <h4>
+                                {/* <h4>
                                 Dusty Trimmer - Combat Infantry, John Bellemy - Combat Engineer, Tom Gretsko - Army Ranger.
                             All reserved with the 25th Infantry Division 1968-1970.
-                                </h4>
+                                </h4> */}
                                 {/* <span className="ata-span-fx">
                                     
                                 </span> */}

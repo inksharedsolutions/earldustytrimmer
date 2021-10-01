@@ -75,6 +75,30 @@ const ATB = (props) => {
                                         <p>
                                         Earl Campbell, Major (retired) U.S. Army Veteran Combat Infantry Association Commander (retired)
                                         </p>
+                                        
+                                        <p>
+                                            Veterans Disability Claims Backlog Expected To Grow In Coming Months. <i>Military Times 9/15/21</i>
+                                        </p>
+
+                                        <p>
+                                            This is a headline recently presented to Americans to ponder over, I hope they are doing just that. I'll be perfectly clear in saying in no uncertain terms just how totally disgraceful this news is to every patriotic American. Allow me to remind people that under the Obama/Biden administration the veterans backlog for claims for healthcare completely sunk to rock bottom as more than 600,000 veterans were left in a state of ... DENIAL. The common phase used by veterans was and still is...DELAY, DENY, DELAY TILL WE DIE!!!
+                                        </p>
+
+                                        <p>
+                                            Please refer to Chapter 15 in my book UNBREAKABLE HEARTS II which is titled...Unlikely Champion For Veterans. That knight in shining armor who has fought tenaciously and relentlessly is in fact...Mr. Donald J. Trump. When he entered hi presidency he inherited, from Obama/Biden, a mind boggling total of more than 600,000 disability claims for veterans from WWII and onward. When Mr. Trump ended his mere four year term that disgusting number of 600,000+ had been reduced in biblical proportions to under 60,000. This is not a fabrication, it is a fact, but most people were not told of this great feat by the former President. It is not unlikely that had Mr. Trump been reelected we might have seen the total of disabled veterans claims backlog might have been reduced down to a miraculous number of a few thousand or a few hundred. Highly possible, but NOOOOOOOOOOOOOOOOOOO because part of the Obama/Biden duo was re-elected.
+                                        </p>
+
+                                        <p>
+                                            Now Americans have been faced with an almost complete reversal of what Trumps team accomplished for America's wounded heroes. The claims backlog under Biden has skyrocketed quickly to a disgusting level of.....215,000+..Make matters worse, Bidens' appointed VA Secretary said this in a press conference..."this problem is going to get worse before it gets better".
+                                        </p>
+
+                                        <p>
+                                            My books were not written to praise our former President and there is so much more information presented for the complete benefit of our veterans, friends and family. I just had to make mention of what Trump really did do and what Biden really is not doing for us.....AGAIN!
+                                        </p>
+
+                                        <p>
+                                            Now I call on every American that cares, to support our cause to get our veteran war buddies taken care of...ASAP! As my war buddy brother Major Earl Cambell stated earlier....."FORWARD MARCH, BROTHERS!"
+                                        </p>
                                      
                                         <h2> Coming Soon...</h2>
                                     `,

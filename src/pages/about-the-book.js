@@ -99,19 +99,17 @@ const ATB = (props) => {
                                         <p>
                                             Now I call on every American that cares, to support our cause to get our veteran war buddies taken care of...ASAP! As my war buddy brother Major Earl Cambell stated earlier....."FORWARD MARCH, BROTHERS!"
                                         </p>
-                                     
-                                        <h2> Coming Soon...</h2>
                                     `,
 
                                 ebooks: {
                                     stratton: '',
-                                    barnes: 'https://www.barnesandnoble.com/w/america-come-and-get-it-Earl "Dusty" Trimmer/1129522005?ean=9781648954115',
-                                    amazon: 'https://www.amazon.com/America-Come-Get-Earl "Dusty" Trimmer-ebook/dp/B096L6K52B/ref=sr_1_1?dchild=1&keywords=9781648954115&qid=1623259921&sr=8-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/unbreakable-hearts-ii-earl-dusty-trimmer/1140316563?ean=9781648956096',
+                                    amazon: 'https://www.amazon.com/Unbreakable-Hearts-II-Heart-Wrenching-Forfeited-ebook/dp/B09HXX1PWM/ref=sr_1_1?dchild=1&keywords=9781648956096&qid=1634052873&sr=8-1',
                                 },
                                 paperback: {
-                                    amazon: 'https://www.amazon.com/America-Come-Get-Earl "Dusty" Trimmer/dp/1648954103/ref=sr_1_1?dchild=1&keywords=9781648954108&qid=1623259912&sr=8-1',
-                                    barnes: 'https://www.barnesandnoble.com/w/america-come-and-get-it-Earl "Dusty" Trimmer/1129522005?ean=9781648954108',
-                                    booksamillion: 'https://www.booksamillion.com/p/America-Come-Get/Earl "Dusty" Trimmer/9781648954108?id=8255501074287',
+                                    amazon: '',
+                                    barnes: '',
+                                    booksamillion: '',
                                 }
                             }}
                         />

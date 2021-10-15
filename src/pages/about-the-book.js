@@ -106,8 +106,8 @@ const ATB = (props) => {
                                     amazon: 'https://www.amazon.com/Unbreakable-Hearts-II-Heart-Wrenching-Forfeited-ebook/dp/B09HXX1PWM/ref=sr_1_1?dchild=1&keywords=9781648956096&qid=1634052873&sr=8-1',
                                 },
                                 paperback: {
-                                    amazon: '',
-                                    barnes: '',
+                                    amazon: 'https://www.amazon.com/Unbreakable-Hearts-II-Heart-Wrenching-Forfeited/dp/1648956084/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1634052873&sr=8-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/unbreakable-hearts-ii-earl-dusty-trimmer/1140316563?ean=9781648956089',
                                     booksamillion: '',
                                 }
                             }}

@@ -45,11 +45,11 @@ const BookInfo = (props) => {
                                 barnes: props.data.ebooks.barnes,
                                 amazon: props.data.ebooks.amazon,
                             },
-                            // paperback: {
-                            //     amazon: props.data.paperback.amazon,
-                            //     barnes: props.data.paperback.barnes,
-                            //     booksamillion: props.data.paperback.booksamillion,
-                            // },
+                            paperback: {
+                                amazon: props.data.paperback.amazon,
+                                barnes: props.data.paperback.barnes,
+                                booksamillion: props.data.paperback.booksamillion,
+                            },
 
                             reviews: {},
                             isNonfront: true,

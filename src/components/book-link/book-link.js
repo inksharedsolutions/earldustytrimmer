@@ -17,17 +17,17 @@ const BookLink = (props)=>{
                     </nav>
                 )} 
 
-                {/* {!Object.entries(props.data.paperback).length == 0 && (
+                {!Object.entries(props.data.paperback).length == 0 && (
 
                     <nav className={`${props.data.isNonfront ? 'booklinkBlocks' : 'frontLinks'}`} >
                         <span>{`${props.data.isNonfront?'Paperback': ''}`}</span>
                         <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.amazon}>Amazon</a></li>
                         <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.barnes}>Barnes & Noble </a></li>
-                        <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.booksamillion}>Books A Million</a></li>
+                        {/* <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.booksamillion}>Books A Million</a></li> */}
                     </nav> 
                 )}      
 
-                {!Object.entries(props.data.reviews).length == 0 && (
+                {/* {!Object.entries(props.data.reviews).length == 0 && (
                     
                     <nav className={`${props.data.isNonfront ? 'booklinkBlocks' : 'frontLinks'}`}>
                         <span>Reviews</span>

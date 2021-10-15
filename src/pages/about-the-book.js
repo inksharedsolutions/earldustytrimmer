@@ -45,18 +45,17 @@ const ATB = (props) => {
                                         <p>
                                         Earl “Dusty” Trimmer relates with both skill and personal experience events surrounding 
                                         our most forgetable and misunderstood war in America’s history. He brings it all home 
-                                        with his down-to-earth style and considerable knowledge. In Unbreakable Hearts, Dusty 
+                                        with his down-to-earth style and considerable knowledge. In Unbreakable Hearts II, Dusty 
                                         dives into the Vietnamese history and culture and skillfully brings the reader into understanding 
                                         our Vietnamese enemy’s amazing resolve. He brilliantly explains the evolution of our Vietnamese 
-                                        enemy over hundreds of years of invasions and wars. Always defending their country to remain 
-                                        free became an art. In Chapter 7, Dusty describes the Vietnamese women fighters as “Hellcats.” 
+                                        enemy over centuries of invasions and wars. Always defending their country to remain 
+                                        free became an art. In Chapter 7, Dusty describes the tenacious and creature Vietnamese women fighters as “Hellcats.” 
                                         My own experience with the formidable Vietnamese Viet Cong women’s skills and expertise 
                                         closely mirrors Dusty’s. Hooch girls could plant booby traps in a GI’s hooch with a skill and 
                                         savvy they were forced to learn during decades of on-the-job training in continuous wars with 
                                         unwelcomed invaders.
                                         </p>
                                         <p>
-                                        My own Military Police experience after leaving the infantry revealed these incidents vividly. 
                                         In later chapters, Dusty moves into our own veterans’ profound resolve and toughness. North 
                                         Vietnam’s famed General Giap called us “an honorable enemy.” One could suggest from this 
                                         writing that our enemy taught us well. We did things in the Vietnam War the average person 

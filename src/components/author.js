@@ -12,7 +12,7 @@ const Author = () => {
                     <div className="grid-child" id="author-contents">
 
                         <p>
-                        Many of us who were combat soldiers or marines in the Vietnam War still consider themselves as soldiers.  I served during what has been referred to as the “bloody years” of 1968-69.  Actually 1968 alone owns the title.  I am not a college graduate, but I ground out seven and a half years of college classes day and evening, at four different universities — majoring in nothing, and working full time while attending evening classes, . . . just like an infantry “grunt” did in Vietnam.  I was working almost 24-7 before and after Vietnam service. 
+                        Many who were combat soldiers or marines in the Vietnam War still consider themselves soldiers. I served during what has been referred to as the “bloodiest year” in 1968. I am not a college graduate, but I ground out five and a half years of college classes day and evening, at four different universities — majoring in nothing, and working part time and full time. Just like an infantry “grunt” did in Vietnam. I was working 24-7 before and after Vietnam service. 
                         </p>
                         
                         <button className="btn-book-featured-red">

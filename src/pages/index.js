@@ -8,6 +8,7 @@ import Banner from "../components/banner"
 import MidBook from "../components/front-book"
 import Author from "../components/author"
 import FeaturedLogos from "../components/mid-main"
+import Testimonials from "../components/testimonials"
 // import HomePic from "../../static/banner/home-picture.jpg"
 
 
@@ -15,9 +16,11 @@ const IndexPage = (props) => (
     <Layout >
         <Helmet title='Home | Earl "Dusty" Trimmer '/>
         <Nav pathExt={props.path} />
-        <Banner /><br/><br/><br/><br/><br/><br/>
-        <MidBook />
+        <Banner />
+        <MidBook /><br/>
+        <Testimonials />
         <Author />
+        
         
         {/* <div className="group-sec">
                 <div className="flex">

@@ -18,7 +18,7 @@ const IndexPage = (props) => (
         <Nav pathExt={props.path} />
         <Banner />
         <MidBook /><br/>
-        <Testimonials />
+        {/* <Testimonials /> */}
         <Author />
         
         

@@ -11,7 +11,8 @@ const Nav = (props) => {
         'Home',
         'About-the-Author',
         'About-the-Book',
-        'Contact'
+        'Contact',
+        'Testimonial'
     ]
 
     let Listed = pages.map((e) => {
@@ -37,27 +38,29 @@ const Nav = (props) => {
     return (
         <>
             <nav className="navigation">
-                <li>
-                    <Link to="/">
-                        Home
-					</Link>
-                </li>
 
                 <li>
                     <Link to="/about-the-author">
-                        About the Author
+                        Author
 					</Link>
                 </li>
 
-                <li>
-                    <Link to="/">
-                        <img alt="author-logo" src={Logo} />
-                    </Link>
-                </li>
 
                 <li>
                     <Link to="/about-the-book">
                         About the Book
+					</Link>
+                </li>
+
+                <li >
+                    <Link to="/" >
+                        <img alt="author-logo" src={Logo}/>
+                    </Link>
+                </li>
+
+                <li>
+                    <Link to="/testimonial">
+                        Testimonials
 					</Link>
                 </li>
 

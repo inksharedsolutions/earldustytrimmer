@@ -13,6 +13,7 @@ exports.components = {
   "component---src-pages-page-2-js": hot(preferDefault(require("C:\\Users\\Web Dev\\Desktop\\Tina\\Websites\\earldustytrimmer\\src\\pages\\page-2.js"))),
   "component---src-pages-privacy-policy-js": hot(preferDefault(require("C:\\Users\\Web Dev\\Desktop\\Tina\\Websites\\earldustytrimmer\\src\\pages\\privacy-policy.js"))),
   "component---src-pages-terms-and-conditions-js": hot(preferDefault(require("C:\\Users\\Web Dev\\Desktop\\Tina\\Websites\\earldustytrimmer\\src\\pages\\terms-and-conditions.js"))),
+  "component---src-pages-testimonial-js": hot(preferDefault(require("C:\\Users\\Web Dev\\Desktop\\Tina\\Websites\\earldustytrimmer\\src\\pages\\testimonial.js"))),
   "component---src-pages-using-typescript-tsx": hot(preferDefault(require("C:\\Users\\Web Dev\\Desktop\\Tina\\Websites\\earldustytrimmer\\src\\pages\\using-typescript.tsx")))
 }
 

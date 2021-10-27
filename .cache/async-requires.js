@@ -10,6 +10,7 @@ exports.components = {
   "component---src-pages-page-2-js": () => import("./../../../src/pages/page-2.js" /* webpackChunkName: "component---src-pages-page-2-js" */),
   "component---src-pages-privacy-policy-js": () => import("./../../../src/pages/privacy-policy.js" /* webpackChunkName: "component---src-pages-privacy-policy-js" */),
   "component---src-pages-terms-and-conditions-js": () => import("./../../../src/pages/terms-and-conditions.js" /* webpackChunkName: "component---src-pages-terms-and-conditions-js" */),
+  "component---src-pages-testimonial-js": () => import("./../../../src/pages/testimonial.js" /* webpackChunkName: "component---src-pages-testimonial-js" */),
   "component---src-pages-using-typescript-tsx": () => import("./../../../src/pages/using-typescript.tsx" /* webpackChunkName: "component---src-pages-using-typescript-tsx" */)
 }
 

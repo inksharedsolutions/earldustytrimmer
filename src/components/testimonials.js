@@ -43,6 +43,13 @@ const Testimonials = () => {
                     <span>Bob Gaetans, Editor</span><br />
                     <span>Aurora Advocate</span>
                 </div>
+                <div className="slider">
+                    <blockquote>
+                        As you know, my dad is terminal with lung cancer. Your book is outstanding and so critically important for helping me understand my dad better.
+                    </blockquote><br />
+                    <span>Melanie Oberlin Knapp</span><br />
+                    <span>Vietnam Veteran daughter</span>
+                </div>
             </Slider>
         </div>
     )

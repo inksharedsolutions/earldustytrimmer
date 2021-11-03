@@ -8,7 +8,7 @@ import Banner from "../components/banner"
 import MidBook from "../components/front-book"
 import Author from "../components/author"
 import FeaturedLogos from "../components/mid-main"
-import Testimonials from "../components/testimonials"
+// import Testimonials from "../components/testimonials"
 // import HomePic from "../../static/banner/home-picture.jpg"
 
 

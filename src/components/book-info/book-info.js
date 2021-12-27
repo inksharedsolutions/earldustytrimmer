@@ -50,6 +50,11 @@ const BookInfo = (props) => {
                                 barnes: props.data.paperback.barnes,
                                 booksamillion: props.data.paperback.booksamillion,
                             },
+                            hardcover: {
+                                amazon: props.data.hardcover.amazon,
+                                barnes: props.data.hardcover.barnes,
+                                // booksamillion: props.data.hardcover.booksamillion,
+                            },
 
                             reviews: {},
                             isNonfront: true,
